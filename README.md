@@ -50,8 +50,6 @@ Did I mention that I use Vim btw?
 
 <!-- Tooling -->
 ![Monorepos](https://img.shields.io/badge/Monorepos-20B2AA?style=for-the-badge)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Turborepo](https://img.shields.io/badge/turborepo-black.svg?style=for-the-badge&logo=Turborepo&logoColor=%23EF4444)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
@@ -60,12 +58,7 @@ Did I mention that I use Vim btw?
 ![Jest](https://img.shields.io/badge/jest-black.svg?style=for-the-badge&logo=jest&logoColor=%23C21325) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Semantic-release](https://img.shields.io/badge/semantic%20release-white.svg?style=for-the-badge&logo=semanticrelease&logoColor=%23494949) 
-![Conventional Commits](https://img.shields.io/badge/conventional%20commits-black.svg?style=for-the-badge&logo=conventionalcommits&logoColor=%23FE5196) 
 ![Husky](https://img.shields.io/badge/husky-white.svg?style=for-the-badge) 
-
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 <!-- DevOPS -->
